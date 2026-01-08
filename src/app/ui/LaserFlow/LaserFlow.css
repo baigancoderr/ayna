@@ -1,0 +1,7 @@
+.laser-flow-container {
+  width: 100%;
+  height: 150%;
+  right: -20%;
+  position: relative;
+  pointer-events: none;
+}
